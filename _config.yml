@@ -16,9 +16,9 @@ title_separator          : "-"
 subtitle                 : "Technology of Information Security"
 name                     : &name "DayForPizzA" # &name is a YAML anchor which can be *referenced later
 description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
-url                      : https://m3yhapr14th.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dayforpizza.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "m3yhapr14th/comments"
+repository               : "dayforpizza/comments"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -104,13 +104,13 @@ author:
   links:
     - label: "Github Page"
       icon: "fas fa-fw fa-link"
-      url: "https://m3yhapr14th.github.io"
+      url: "https://dayforpizza.github.io"
     - label: "Velog"
       icon: "fab fa-fw fa-vimeo-square"
       url: "https://velog.io/@m3yhapr14th"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/m3yhapr14th"
+      url: "https://github.com/dayforpizza"
     #- label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
     #  url: "https://instagram.com/mmistakes"
@@ -121,13 +121,13 @@ footer:
   links:
     - label: "Github Page"
       icon: "fas fa-fw fa-link"
-      url: "https://m3yhapr14th.github.io"
+      url: "https://dayforpizza.github.io"
     - label: "Velog"
       icon: "fab fa-fw fa-vimeo-square"
       url: "https://velog.io/@m3yhapr14th"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/m3yhapr14th"
+      url: "https://github.com/dayforpizza"
 
 # Reading Files
 include:
